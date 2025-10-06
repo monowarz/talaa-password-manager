@@ -1,6 +1,6 @@
 # Taala Password Manager
 
-A lightweight, password manager built to demonstrate hands-on implementation of secure coding, encryption, and password management principles.
+A lightweight, password manager built to demonstrate hands-on implementation of encryption and password management principles.
 ---
 
 ## Features
