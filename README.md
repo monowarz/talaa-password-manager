@@ -3,6 +3,9 @@
 A lightweight, password manager built to demonstrate hands-on implementation of encryption and password management principles.
 ---
 
+![Project Taala - A Python CLI Tool](https://github.com/monowarz/talaa-password-manager/blob/main/docs/banner.jpg)
+
+
 ## Features
 
 - **Secure Local Storage**: Passwords are fully encrypted using AES-256 (Fernet)
